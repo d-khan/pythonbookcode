@@ -1,3 +1,4 @@
+```python
 class Time:
     """The class takes input in minutes and seconds and
     convert the result into hours, minutes and seconds"""
@@ -20,3 +21,4 @@ class Time:
 
 o = Time(0, 70000)
 o.convert()
+```
